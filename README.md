@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kristifourie
 - 👀 I’m interested in computer science and genetics
-- 🌱 I know java and C, currently learning python
-- 💞️ I’m looking to collaborate on any biology related projects
+- 🌱 I know python, C, java and R
+- 💞️ I’m looking to collaborate on any machine learning or bioinformatics projects
 - 📫 How to reach me: kristifourie@gmail.com
 
 
