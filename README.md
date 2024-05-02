@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kristifourie
-- 👀 I’m interested in computer science and genetics
+- 👀 I’m interested in bioinformatics and computational biology
 - 🌱 I know python, C, java and R
 - 💞️ I’m looking to collaborate on any machine learning or bioinformatics projects
 - 📫 How to reach me: kristifourie@gmail.com
